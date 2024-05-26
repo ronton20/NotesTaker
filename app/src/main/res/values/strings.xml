@@ -1,0 +1,12 @@
+<resources>
+    <string name="add_note">Add Note</string>
+    <string name="record">Record</string>
+    <string name="note_description">Description</string>
+    <string name="note_title">Title</string>
+    <string name="developers_names">Ron Ariel\nYaki Kol\nIdan Malka</string>
+    <string name="submission_date">26/05/2024</string>
+    <string name="note_image">Note Image</string>
+    <string name="date_picker_label">Date</string>
+    <string name="time_picker_label">Time</string>
+    <string name="set_date_time">Confirm</string>
+</resources>

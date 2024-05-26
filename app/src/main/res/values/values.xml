@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Notes Taker</string>
+    <string name="welcome_message">Welcome to my app!</string>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+</resources>
